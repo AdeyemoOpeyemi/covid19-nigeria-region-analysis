@@ -10,10 +10,6 @@ This was a class task assigned under the **SAIL Data Science Program** to assess
 
 - `covid19_nigeria_states.csv` – COVID-19 dataset by Nigerian states  
 - `covid_analysis.R` – Main R script that maps states to regions, summarizes data, runs ANOVA, and plots results  
-- `nigeria_inference_project.Rproj` – RStudio project file for setup  
-- `region_summary_plot.png` – (Optional) Visualization of average deaths per region  
-- `README.md` – Project documentation
-
 ---
 
 🔧 Tools Used
